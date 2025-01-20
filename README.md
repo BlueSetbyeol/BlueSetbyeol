@@ -5,6 +5,7 @@
     P3 - City Hunter : Stree Art Hunter<br/>
     Personal Practice : Full on discovery and practice <br/>
     Routinimaginable : How about working a sweat ? In French 😄 <br/>
+    One more coming up soon on traveling ✈️ <br/>
 - 🌱 I’m currently learning Authentifications in React JS, how to make a gold ring, how to sew a jean and many more curious things;<br/>
 - 👯 I’m looking to collaborate on a long term project in a fabulous team, to see it flourish to completion and offer plenty of solution;<br/>
 - 🤔 I’m looking for help to find a long term apprentiship so I can keep learning;<br/>
