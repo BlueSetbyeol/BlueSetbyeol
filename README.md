@@ -22,4 +22,4 @@
 
 
 ### My Skills :
-[![My Skills](https://skillicons.dev/icons?i=ps,html,css,js,vscode,figma,git,github,nodejs,npm,react,ts,vite,express,postman,mysql,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,html,css,js,vscode,figma,git,github,nodejs,npm,react,ts,vite,express,postman,mysql,nextjs,tailwind,jest)](https://skillicons.dev)
